@@ -39,10 +39,12 @@ El resistor variable utilizado para dividir voltaje se llama potenciómetro. El 
 
 ![image](https://user-images.githubusercontent.com/116780506/205117291-82a1ed7f-3912-4d60-bf0e-69f162bbfedb.png)
 
+![image](https://user-images.githubusercontent.com/116780506/205130912-42653ab5-2d9a-4cfb-9805-1ef431cbced6.png)
+![Uploading image.png…]()
 
 Transistor:
 
-
+![Uploading image.png…]()
 El transistor actúa como fuente de corriente porque una parte de la curva característica IV es una línea horizontal.
 
 ![image](https://user-images.githubusercontent.com/116780506/205117338-912a369e-c4e3-409e-b7c3-5f85309f82ef.png)
