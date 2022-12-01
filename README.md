@@ -66,6 +66,9 @@ Dispositivo semiconductor que permite el control y la regulación de unacorrient
 
 Fotoceldas:
 
+![image](https://user-images.githubusercontent.com/116780506/205131341-a0af0cfa-07ac-4f22-a9e9-fb7f938e78f9.png)
+
+
 Una fotocelda es un dispositivo electrónico que transforma fotones en energía eléctrica, en forma de voltios. Pueden calibrarse y detectan un espectro amplio de niveles de luz produciendo una cantidad variable de electricidad.
 
 Para qué sirven las fotoceldas
@@ -73,6 +76,11 @@ Para qué sirven las fotoceldas
 Son utilizadas para el control de encendido y apagado de una lámpara.
 Las fotoceldas se usan en la producción del voltaje requerido para recargar una batería o como fuente de voltaje de múltiples dispositivos.
 Son frecuentemente establecidas como control del encendido automático del alumbrado público.
+
+Iodos Led:
+permite el paso de corriente en un solo sentido y que al ser polarizado emite un haz de luz
+![image](https://user-images.githubusercontent.com/116780506/205131531-6e2b0736-4361-408b-b8ff-95ea55a4ca3c.png)
+
 
 
 3.EXPLICACIÓN DEL PROCEDIMIENTO
