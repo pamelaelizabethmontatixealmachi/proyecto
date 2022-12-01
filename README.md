@@ -23,13 +23,11 @@ Armar un led nocturno automatico.
 
 1.2 Objetivos especificos:
 
-Identificar las regiones de operación de los transistores de unión bipolar.
+Determinar el funcionamiento de la fotocelda, diodo led, transistor y potenciómetro.
 
-Conocer las diferentes configuraciones para el uso de transistores.
+Conocer los tipos de transistores.
 
-Comprender la saturación del transistor y su utilidad.
-
-Determinar el funcionamiento de la fotocelda
+Conocer la simbología eléctrica de la fotocelda, diodo led, transistor y potenciómetro.
 
 2.MARCO TEÓRICO
 
@@ -121,12 +119,16 @@ https://drive.google.com/file/d/14Y6K1nF8h_IQ6wX7ieMH-92eU3kozMKR/view?usp=shari
 
 5.CONCLUSIONES
 
-Mediante la práctica se comprende el importante papel de los transistores en la electrónica.
-El transistor es un dispositivo semiconductor que permite el control y la regulación de una corriente.
-Una polarización correcta permite el funcionamiento de este componente.
+Es necesario conectar correctamente el diodo led para que este permita el paso de corriente.
 
-No es lo mismo polarizar un transistor NPN que PNP.
-La región de operación en la cual se sitúe el transistor depende del voltaje al cual se encuentre sometió.
+La fotocelda actúa como interruptor y esta actúa dependiendo la luz existente.
+
+El potenciómetro se lo puede variar de forma manual y es semejante a una resistencia.
+
+Existen dos tipos de transistores NPN y PNP.
+
+
+
 6.BIBLIOGRAFÍA
 
 Floyd (8va Ed)(2007). Principios de circuitos electricos. Pearson Education
