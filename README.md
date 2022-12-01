@@ -93,6 +93,9 @@ Resistencia 220 ohms
 Resitencia 10kohms
 Fuente 6V
 
+Esquema del Circuito:
+
+![image](https://user-images.githubusercontent.com/116780506/205134475-3dcc2f60-444d-402b-b32c-b79ed4723f02.png)
 
 Circuito armado en thinkercard:
 
