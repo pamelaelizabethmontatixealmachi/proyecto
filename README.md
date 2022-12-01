@@ -17,15 +17,19 @@ JOAQUIN SILVA
 PROYECTO DE LED NOCTURNO
 
 
-OBJETIVOS
+OBJETIVO GENERAL
 
+Armar un led nocturno automatico.
+
+1.2 Objetivos especificos:
 
 Identificar las regiones de operación de los transistores de unión bipolar.
-Conocer las diferentes configuraciones para el uso de transistores.
-Comprender la saturación del transistor y su utilidad.
-Entender el funcionamiento de los transistore
-Determinar los parámetros eléctricos de conductividad de un transistor.
 
+Conocer las diferentes configuraciones para el uso de transistores.
+
+Comprender la saturación del transistor y su utilidad.
+
+Determinar el funcionamiento de la fotocelda
 
 2.MARCO TEÓRICO
 
@@ -106,9 +110,11 @@ https://drive.google.com/file/d/14Y6K1nF8h_IQ6wX7ieMH-92eU3kozMKR/view?usp=shari
 
 5.CONCLUSIONES
 
-Mediante dicha práctica pudimos entender el importante papel de los transistores en la electrónica.
+Mediante la práctica se comprende el importante papel de los transistores en la electrónica.
 El transistor es un dispositivo semiconductor que permite el control y la regulación de una corriente.
-Una polarización correcta permite el funcionamiento de este componente.No es lo mismo polarizar un transistor NPN que PNP.
+Una polarización correcta permite el funcionamiento de este componente.
+
+No es lo mismo polarizar un transistor NPN que PNP.
 La región de operación en la cual se sitúe el transistor depende del voltaje al cual se encuentre sometió.
 6.BIBLIOGRAFÍA
 
